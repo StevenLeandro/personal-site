@@ -1,0 +1,233 @@
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Poiret One', cursive;
+  font-size: 5.625rem;
+  background: linear-gradient(45deg, #293B5F, #227066, #F1B24B);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: normal;
+
+}
+
+hr{
+  margin: 0 auto 0 auto;
+  clear: both;
+  border-style: dotted;
+  border-width: 8px 0 0 0;
+  width: 20%;
+  border-color: hotpink;
+  padding-bottom: 20px;
+  opacity: .25;
+
+}
+
+h2 {
+  margin-top: 0;
+  font-family: 'Poiret One', cursive;
+  font-size: 2rem;
+  line-height: normal;
+  background: linear-gradient(45deg, #293B5F, #80FFDB, #6930C3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding-top: 15px;
+}
+
+.a-dev {
+  font-weight: bolder;
+  background: linear-gradient(45deg, #293B5F, #227066, #F1B24B);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding-top: 0;
+}
+
+h3 {
+  font-family: 'Poiret One', cursive;
+  line-height: normal;
+  background: linear-gradient(45deg, #FF577F, #C70039, #111D5E);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.skill-h3{
+  background: linear-gradient(45deg, #FF577F, #C70039, #111D5E);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .8), rgba(43, 0, 84, 1)),
+   url("https://images.pexels.com/photos/957061/milky-way-starry-sky-night-sky-star-957061.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #00C1D4;
+}
+
+.top-box {
+  padding-top: 100px;
+  margin-top: 0;
+  margin-bottom: 0;
+  position: relative;
+  font-family: 'Poiret One', cursive;
+}
+
+.profile-pic {
+  height: 100px;
+  border-radius: 100%;
+}
+.intro{
+  width: 33%;
+  margin: 0 auto;
+  padding-bottom: 15px;
+}
+
+.title {
+  position: relative;
+}
+
+.meteor {
+  position: absolute;
+  top: 100px;
+  right: 75%;
+  width: 10%;
+}
+
+.saturn {
+  position: absolute;
+  left: 75%;
+  bottom: 230px;
+  width: 10%;
+}
+
+.astronaut {
+  position: relative;
+  width: 20%;
+
+}
+
+.middle-box {
+  margin: 0 auto 0 auto;
+  position: relative;
+  padding-top: 15px;
+}
+
+.skill-row-1 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row-2 {
+  width: 50%;
+  margin: 200px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-pic-1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-pic-2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.constellation {
+  width: 10%;
+  float: left;
+  margin: 0 auto;
+  position: absolute;
+  left: 100px;
+  filter: invert(100%);
+}
+
+.satellite {
+  width: 10%;
+  float: right;
+  margin: 0 auto;
+  position: absolute;
+  right: 100px;
+  filter: invert(100%);
+}
+
+.coding-png {
+  height: 200px;
+}
+
+.bottom-box {
+  background-image: linear-gradient(360deg, #2b0054, #170055);
+  padding-top: 10px;
+  margin: 0 auto 0 auto;
+  position: relative;
+  border-width: 3px 0 0 0;
+  border-style: double;
+  border-color: #00C1D4;
+}
+.trademark{
+  margin: 0  auto 0 auto;
+  padding-top: 5px;
+  padding-bottom: 2px;
+  color: white;
+}
+
+.contact-btn {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+.footer-link {
+  color: #FB87FF;
+  margin: 0 100px 0 100px;
+  text-decoration: none;
+  text-shadow: -1px 3px 0 #000000;
+  font-family: 'Poiret One', cursive;
+  letter-spacing: 3px;
+  font-weight: 900;
+
+
+
+}
+
+.btn {
+   background: #3800B3;
+   background-image: -webkit-linear-gradient(top, #3800B3, #0088D9);
+   background-image: -moz-linear-gradient(top, #3800B3, #0088D9);
+   background-image: -ms-linear-gradient(top, #3800B3, #0088D9);
+   background-image: -o-linear-gradient(top, #3800B3, #0088D9);
+   background-image: -webkit-gradient(to bottom, #3800B3, #0088D9);
+   -webkit-border-radius: 100px;
+   -moz-border-radius: 100px;
+   border-radius: 100px;
+   height: 0;
+   line-height: 0;
+   color: #FB87FF;
+   font-family: 'Poiret One', cursive;
+   width: 150px;
+   font-size: 20px;
+   font-weight: 900;
+   padding: 21px;
+   -webkit-box-shadow: 0 0 25px 0 #484848;
+   -moz-box-shadow: 0 0 25px 0 #484848;
+   box-shadow: 0 0 25px 0 #80717c;
+   text-shadow: -1px 3px 0 #000000;
+   border: groove #337FED 2px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   font-style: normal;
+   letter-spacing: 3px;
+}
+
+.btn:active{
+  transform: scale(0.98);
+  box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+
+}
